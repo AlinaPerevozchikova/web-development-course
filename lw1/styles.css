@@ -2,8 +2,8 @@
 /* Beware: Itcan remove the padding / margin and add a background color to the compose a reply window. */
 html,
 body {
-margin: 0 auto !important;
-padding: 0 !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
 height: 100% !important;
 width: 100% !important;
 background: #f1f1f1;
@@ -96,13 +96,6 @@ u ~ div .email-container {
 min-width: 414px !important;
 }
 }
-</style>
-
-<!-- CSS Reset : END -->
-
-<!-- Progressive Enhancements : BEGIN -->
-<style>
-
 .primary{
 background: #17bebb;
 }
@@ -154,6 +147,9 @@ font-weight: 700;
 color: rgba(0,0,0,.3);
 text-decoration: underline;
 }
+.button_tr  p{
+margin-left: 42%;
+}
 
 h1,h2,h3,h4,h5,h6{
 font-family: 'Work Sans', sans-serif;
@@ -191,7 +187,6 @@ font-family: 'Work Sans', sans-serif;
 /*HERO*/
 .hero{
 position: relative;
-position: absolute;
 z-index: 0;
 }
 

@@ -3,12 +3,12 @@
   padding: 0;
 }
 
-.container-buttons {
+.row-of-buttons {
   width: auto;
   margin: 5% 0 0 10%;
 }
 
-button {
+.button {
   margin: 1%;
   border-radius: 0;
   padding: 10px 5px;

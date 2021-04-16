@@ -6,8 +6,9 @@ body {
 
 .calendar{
 	border: 5px solid #ECECEC;
-  margin: 30px 280px 0 290px;
+  margin: 30px 280px;
   color: #3A3734;
+  width: 950px;
 }
 
 .line {
@@ -20,7 +21,7 @@ body {
 }
 
 .week-days {
-  max-width: 950px;
+  max-width: 100%;
 }
 
 .week {

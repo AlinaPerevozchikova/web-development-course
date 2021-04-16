@@ -8,7 +8,6 @@ body {
   padding: 0;
   margin: 0;
   background: #F5F5F5;
-  font-family: Arial, Helvetica, sans-serif;
   color: #0A183A;
   height: 1150px;
 }
@@ -24,7 +23,7 @@ body {
   height: 980px;
   background: white;
   border: 3px solid #F2F2F2;
-  margin: 30px 0 0 130px;
+  margin: 30px auto;
 }
 
 .content-container {

@@ -97,3 +97,8 @@ button {
   background: transparent;
   border: none;
 }
+
+.renew {
+  text-decoration: line-through;
+  color: #C1C6FF;
+}

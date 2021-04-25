@@ -1,3 +1,4 @@
+```
 .container
   .header
     .header-logo
@@ -64,4 +65,4 @@
         .cotent-bills-content_incame
           .cotent-bills-content_text
           .cotent-bills-content_button-active
-
+```

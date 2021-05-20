@@ -98,7 +98,12 @@ button {
   border: none;
 }
 
-.renew {
+.todo-list-item_mission--checked {
   text-decoration: line-through;
   color: #C1C6FF;
 }
+
+.todo-list-item_checkbox-input:checked {
+  background: #e83737;
+}
+
